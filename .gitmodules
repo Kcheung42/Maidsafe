@@ -1,0 +1,6 @@
+[submodule "safe_examples"]
+	path = safe_examples
+	url = https://github.com/maidsafe/safe_examples
+[submodule "safe_browser"]
+	path = safe_browser
+	url = https://github.com/maidsafe/safe_browser
